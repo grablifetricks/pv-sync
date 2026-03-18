@@ -1,7 +1,7 @@
 {
-  "id": "",
-  "active": false,
+  "id": "butterfly_test",
+  "active": true,
   "slot": "daytime",
-  "local_date": "2026-03-19",
-  "image_url": ""
+  "local_date": "2026-03-18",
+  "image_url": "https://raw.githubusercontent.com/grablifetricks/pv-sync/main/assets/cdn/tomo_butterfly.png"
 }
