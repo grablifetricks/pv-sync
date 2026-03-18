@@ -1,10 +1,7 @@
 {
-  "global": {
-    "active": false,
-    "id": "",
-    "image_url": "",
-    "start_date": "2026-01-01",
-    "end_date": "2026-01-01",
-    "priority": 999
-  }
+  "id": "",
+  "active": false,
+  "slot": "daytime",
+  "local_date": "2026-03-19",
+  "image_url": ""
 }
